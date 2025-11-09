@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "name": "Server Name",
+      "transport": {
+        "type": "stdio|sse",
+        // Transport-specific configuration
+      }
+    }
+  ]
+}
