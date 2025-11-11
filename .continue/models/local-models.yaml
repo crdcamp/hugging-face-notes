@@ -3,7 +3,7 @@ version: 0.0.1
 schema: v1
 models:
   - provider: ollama
-    model: unsloth/devstral-small-2505-gguf:Q4_K_M
+    model1: unsloth/devstral-small-2505-gguf:Q4_K_M
     defaultCompletionOptions:
       contextLength: 8192
     name: Ollama Devstral-Small
