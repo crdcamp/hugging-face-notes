@@ -1,0 +1,6 @@
+models:
+  - name: Qwen 1.5b Autocomplete Model
+    provider: ollama
+    model: qwen2.5-coder:1.5b
+    roles:
+      - autocomplete
